@@ -1,0 +1,764 @@
+{
+  "project_info": {
+    "project_number": "703741451068",
+    "firebase_url": "https://pi-games-studio.firebaseio.com",
+    "project_id": "pi-games-studio",
+    "storage_bucket": "pi-games-studio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703741451068:android:c62a605b800ae3c6",
+        "android_client_info": {
+          "package_name": "com.pigamesstudio.alienspacefighter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703741451068-73ns106p4k948q1p6gkqs1kb66j3mlcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5WmaL0D0X00YOP8Eak8jtZZd8MhD6kcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703741451068-73ns106p4k948q1p6gkqs1kb66j3mlcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9186537445372825~1554660296"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703741451068:android:a9b3b16aab1d64b7b71c39",
+        "android_client_info": {
+          "package_name": "com.pigamesstudio.animalhelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703741451068-73ns106p4k948q1p6gkqs1kb66j3mlcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5WmaL0D0X00YOP8Eak8jtZZd8MhD6kcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703741451068-73ns106p4k948q1p6gkqs1kb66j3mlcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9186537445372825~3160220159"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703741451068:android:bd40452755e71721b71c39",
+        "android_client_info": {
+          "package_name": "com.pigamesstudio.bomberescaperun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703741451068-73ns106p4k948q1p6gkqs1kb66j3mlcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5WmaL0D0X00YOP8Eak8jtZZd8MhD6kcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703741451068-73ns106p4k948q1p6gkqs1kb66j3mlcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703741451068:android:0490673510a84007b71c39",
+        "android_client_info": {
+          "package_name": "com.pigamesstudio.cakemakerrecipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703741451068-73ns106p4k948q1p6gkqs1kb66j3mlcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5WmaL0D0X00YOP8Eak8jtZZd8MhD6kcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703741451068-73ns106p4k948q1p6gkqs1kb66j3mlcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9186537445372825~4493889992"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703741451068:android:29f9cf35db893382b71c39",
+        "android_client_info": {
+          "package_name": "com.pigamesstudio.cookingrecipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703741451068-73ns106p4k948q1p6gkqs1kb66j3mlcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5WmaL0D0X00YOP8Eak8jtZZd8MhD6kcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703741451068-73ns106p4k948q1p6gkqs1kb66j3mlcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703741451068:android:9cdb87878a03ca03b71c39",
+        "android_client_info": {
+          "package_name": "com.pigamesstudio.daddyhelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703741451068-73ns106p4k948q1p6gkqs1kb66j3mlcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5WmaL0D0X00YOP8Eak8jtZZd8MhD6kcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703741451068-73ns106p4k948q1p6gkqs1kb66j3mlcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9186537445372825~9342485129"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703741451068:android:05cc91f26659d7e0b71c39",
+        "android_client_info": {
+          "package_name": "com.pigamesstudio.dentist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703741451068-73ns106p4k948q1p6gkqs1kb66j3mlcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5WmaL0D0X00YOP8Eak8jtZZd8MhD6kcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703741451068-73ns106p4k948q1p6gkqs1kb66j3mlcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9186537445372825~6320241123"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703741451068:android:8097758b73f72eed",
+        "android_client_info": {
+          "package_name": "com.pigamesstudio.dentisttoungecleaner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703741451068-73ns106p4k948q1p6gkqs1kb66j3mlcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5WmaL0D0X00YOP8Eak8jtZZd8MhD6kcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703741451068-73ns106p4k948q1p6gkqs1kb66j3mlcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9186537445372825~5660993470"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703741451068:android:5f17cab05de36244b71c39",
+        "android_client_info": {
+          "package_name": "com.pigamesstudio.girldatemakeover"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703741451068-73ns106p4k948q1p6gkqs1kb66j3mlcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5WmaL0D0X00YOP8Eak8jtZZd8MhD6kcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703741451068-73ns106p4k948q1p6gkqs1kb66j3mlcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9186537445372825~9816842431"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703741451068:android:9dbafc72ad1087fdb71c39",
+        "android_client_info": {
+          "package_name": "com.pigamesstudio.homecleaninggame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703741451068-73ns106p4k948q1p6gkqs1kb66j3mlcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5WmaL0D0X00YOP8Eak8jtZZd8MhD6kcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703741451068-73ns106p4k948q1p6gkqs1kb66j3mlcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9186537445372825~3583419962"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703741451068:android:33f742f29c57133f",
+        "android_client_info": {
+          "package_name": "com.pigamesstudio.hospitalsurgerygame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703741451068-73ns106p4k948q1p6gkqs1kb66j3mlcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5WmaL0D0X00YOP8Eak8jtZZd8MhD6kcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703741451068-73ns106p4k948q1p6gkqs1kb66j3mlcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9186537445372825~7448947747"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703741451068:android:4ddd778fb6bcfeeeb71c39",
+        "android_client_info": {
+          "package_name": "com.pigamesstudio.icecreammakerrecipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703741451068-73ns106p4k948q1p6gkqs1kb66j3mlcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5WmaL0D0X00YOP8Eak8jtZZd8MhD6kcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703741451068-73ns106p4k948q1p6gkqs1kb66j3mlcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9186537445372825~6492906605"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703741451068:android:31a7101867e42c1d",
+        "android_client_info": {
+          "package_name": "com.pigamesstudio.kittynewbornbaby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703741451068-73ns106p4k948q1p6gkqs1kb66j3mlcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5WmaL0D0X00YOP8Eak8jtZZd8MhD6kcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703741451068-73ns106p4k948q1p6gkqs1kb66j3mlcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9186537445372825~6701585708"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703741451068:android:17aa678843094765b71c39",
+        "android_client_info": {
+          "package_name": "com.pigamesstudio.mojitodrinks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703741451068-73ns106p4k948q1p6gkqs1kb66j3mlcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5WmaL0D0X00YOP8Eak8jtZZd8MhD6kcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703741451068-73ns106p4k948q1p6gkqs1kb66j3mlcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703741451068:android:58940f07b8d2cb7c",
+        "android_client_info": {
+          "package_name": "com.pigamesstudio.momspregnantcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703741451068-73ns106p4k948q1p6gkqs1kb66j3mlcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5WmaL0D0X00YOP8Eak8jtZZd8MhD6kcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703741451068-73ns106p4k948q1p6gkqs1kb66j3mlcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9186537445372825~7319223294"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703741451068:android:b8c222fcaee1c9a7",
+        "android_client_info": {
+          "package_name": "com.pigamesstudio.nailfootdoctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703741451068-73ns106p4k948q1p6gkqs1kb66j3mlcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5WmaL0D0X00YOP8Eak8jtZZd8MhD6kcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703741451068-73ns106p4k948q1p6gkqs1kb66j3mlcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9186537445372825~6817009467"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703741451068:android:467b7ad6f5964807b71c39",
+        "android_client_info": {
+          "package_name": "com.pigamesstudio.naughtykids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703741451068-73ns106p4k948q1p6gkqs1kb66j3mlcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5WmaL0D0X00YOP8Eak8jtZZd8MhD6kcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703741451068-73ns106p4k948q1p6gkqs1kb66j3mlcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9186537445372825~9534056812"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703741451068:android:8e65af3f26cf5ab0b71c39",
+        "android_client_info": {
+          "package_name": "com.pigamesstudio.puppydaycare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703741451068-73ns106p4k948q1p6gkqs1kb66j3mlcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5WmaL0D0X00YOP8Eak8jtZZd8MhD6kcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703741451068-73ns106p4k948q1p6gkqs1kb66j3mlcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9186537445372825~2968648468"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703741451068:android:e779cd81508d02aa",
+        "android_client_info": {
+          "package_name": "com.pigamesstudio.puppyhomeclean"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703741451068-akhbr7alh8gifa71n24osq86rm1dfjh0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pigamesstudio.puppyhomeclean",
+            "certificate_hash": "df7f4803dceb0799f8a5715aec286873cc44eacb"
+          }
+        },
+        {
+          "client_id": "703741451068-73ns106p4k948q1p6gkqs1kb66j3mlcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5WmaL0D0X00YOP8Eak8jtZZd8MhD6kcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703741451068-73ns106p4k948q1p6gkqs1kb66j3mlcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-5307550552024511~2784019510"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703741451068:android:4052001c3deacc26b71c39",
+        "android_client_info": {
+          "package_name": "com.pigamesstudio.schoolcleaning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703741451068-73ns106p4k948q1p6gkqs1kb66j3mlcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5WmaL0D0X00YOP8Eak8jtZZd8MhD6kcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703741451068-73ns106p4k948q1p6gkqs1kb66j3mlcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9186537445372825~6716321789"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703741451068:android:d738944afe9fa471",
+        "android_client_info": {
+          "package_name": "com.pigamesstudio.streetfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703741451068-73ns106p4k948q1p6gkqs1kb66j3mlcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5WmaL0D0X00YOP8Eak8jtZZd8MhD6kcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703741451068-73ns106p4k948q1p6gkqs1kb66j3mlcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9186537445372825~6995499712"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703741451068:android:8f69a6703d73802fb71c39",
+        "android_client_info": {
+          "package_name": "com.pigamesstudio.summercamp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703741451068-73ns106p4k948q1p6gkqs1kb66j3mlcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5WmaL0D0X00YOP8Eak8jtZZd8MhD6kcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703741451068-73ns106p4k948q1p6gkqs1kb66j3mlcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703741451068:android:2f9fa1effbd4f550b71c39",
+        "android_client_info": {
+          "package_name": "com.pigamesstudio.underwater"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703741451068-73ns106p4k948q1p6gkqs1kb66j3mlcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5WmaL0D0X00YOP8Eak8jtZZd8MhD6kcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703741451068-73ns106p4k948q1p6gkqs1kb66j3mlcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9186537445372825~9659052038"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703741451068:android:2a8ab364e8cd0b96b71c39",
+        "android_client_info": {
+          "package_name": "com.pigamesstudio.unicorndaycare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703741451068-73ns106p4k948q1p6gkqs1kb66j3mlcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5WmaL0D0X00YOP8Eak8jtZZd8MhD6kcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703741451068-73ns106p4k948q1p6gkqs1kb66j3mlcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9186537445372825~4281730131"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703741451068:android:43166c643cf076a2b71c39",
+        "android_client_info": {
+          "package_name": "com.test.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703741451068-73ns106p4k948q1p6gkqs1kb66j3mlcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5WmaL0D0X00YOP8Eak8jtZZd8MhD6kcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703741451068-73ns106p4k948q1p6gkqs1kb66j3mlcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
