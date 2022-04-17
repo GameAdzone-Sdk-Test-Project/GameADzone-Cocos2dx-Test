@@ -11,10 +11,11 @@
 #include <vector>
 #include <string>
 #include "network/HttpClient.h"
-#include <ui/UIWebView.h>
+#include "ui/CocosGUI.h"
 #include "cocos2d.h"
 using namespace cocos2d;
 using namespace network;
+using namespace cocos2d::ui;
 
 
 

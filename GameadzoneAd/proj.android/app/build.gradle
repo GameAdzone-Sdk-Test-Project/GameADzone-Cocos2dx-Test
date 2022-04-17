@@ -123,13 +123,12 @@ android.applicationVariants.all { variant ->
     }
 }
 dependencies {
-    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation fileTree(include: ['*.jar', '*.aar'], dir: 'libs')
     implementation project(':libcocos2dx')
     implementation 'com.google.android.gms:play-services-ads:19.8.0'
     implementation 'com.android.installreferrer:installreferrer:2.2'
     implementation 'com.google.firebase:firebase-analytics:18.0.2'
     implementation 'com.google.firebase:firebase-crashlytics:17.3.1'
-    implementation files('/Users/nikunj/Desktop/GameADzoneSDK/GazLibrary-release.aar')
 
     def lifecycle_version = "2.0.0"
     implementation "androidx.lifecycle:lifecycle-extensions:$lifecycle_version"

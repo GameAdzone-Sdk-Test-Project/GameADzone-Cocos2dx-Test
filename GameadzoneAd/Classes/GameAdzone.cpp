@@ -194,35 +194,25 @@ void  GameAdzone::hideRectangleBanner()
 }
 void GameAdzone::hideIconAd()
 {
-    experimental::ui::WebView *IconwebView = experimental::ui::WebView::create();
-    IconwebView->setPosition(Vec2(0,0));
-    IconwebView->setContentSize(Size(0,0));
-    IconwebView->setBackgroundTransparent();
-    IconwebView->setTouchEnabled(true);
-    IconwebView->setSwallowTouches(true);
-
-    auto uiRect = cocos2d::ui::Helper::convertBoundingBoxToScreen(IconwebView);
-
     JniMethodInfo minfo;
     if(JniHelper::getStaticMethodInfo(minfo,
                                       app_class_path,
                                       "showIconAd",
                                       "(IIII)V"))
     {
-        minfo.env->CallStaticVoidMethod(minfo.classID, minfo.methodID,(int)uiRect.origin.x,(int)uiRect.origin.y,(int)uiRect.size.width,(int)uiRect.size.height);
+        minfo.env->CallStaticVoidMethod(minfo.classID, minfo.methodID,0,0,0,0);
         minfo.env->DeleteLocalRef(minfo.classID);
     }
 }
 void  GameAdzone::showIconAd(float postionX , float postionY , float width,float hight)
 {
-    experimental::ui::WebView *IconwebView = experimental::ui::WebView::create();
-    IconwebView->setPosition(Vec2(postionX,postionY));
-    IconwebView->setContentSize(Size(width,hight));
-    IconwebView->setBackgroundTransparent();
-    IconwebView->setTouchEnabled(true);
-    IconwebView->setSwallowTouches(true);
+    auto IconLayout = Layout::create();
+    IconLayout->setPosition(Vec2(postionX,postionY));
+    IconLayout->setContentSize(Size(width,hight));
+    IconLayout->setTouchEnabled(true);
+    IconLayout->setSwallowTouches(true);
 
-    auto uiRect = cocos2d::ui::Helper::convertBoundingBoxToScreen(IconwebView);
+    auto uiRect = cocos2d::ui::Helper::convertBoundingBoxToScreen(IconLayout);
 
     JniMethodInfo minfo;
     if(JniHelper::getStaticMethodInfo(minfo,
